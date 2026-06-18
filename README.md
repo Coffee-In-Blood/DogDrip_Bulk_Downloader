@@ -20,7 +20,7 @@
 
 ## 사용 예시
 
-<img src="프로모션 이미지.png" width="720" height="426"> | <img src="Capture_600.png" width="324" height="383">
+<img src="./imgs/프로모션 이미지.png" width="720" height="426"> | <img src="./imgs/Capture_600.png" width="324" height="383">
 ---|---|
 
 #### 1. DogDrip 게시글을 엽니다.

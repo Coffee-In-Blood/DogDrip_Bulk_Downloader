@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="DogDrip attachment downloader">
+  <rect width="48" height="48" rx="10" fill="#2563eb"/>
+  <path d="M24 9v20" stroke="#fff" stroke-width="4.8" stroke-linecap="round"/>
+  <path d="m15 22 9 9 9-9" fill="none" stroke="#fff" stroke-width="4.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M13 38h22" stroke="#bfdbfe" stroke-width="4.4" stroke-linecap="round"/>
+</svg>

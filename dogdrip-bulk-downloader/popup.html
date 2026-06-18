@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>DogDrip 일괄 다운로드</title>
+    <link rel="stylesheet" href="popup.css">
+  </head>
+  <body>
+    <main>
+      <header>
+        <h1>DogDrip 첨부</h1>
+        <p data-status>현재 탭을 확인하는 중입니다.</p>
+      </header>
+
+      <fieldset class="media-options">
+        <legend>다운로드 대상</legend>
+        <label>
+          <input type="radio" name="media-type" value="image" data-media-type>
+          <span>사진</span>
+        </label>
+        <label>
+          <input type="radio" name="media-type" value="video" data-media-type>
+          <span>동영상</span>
+        </label>
+        <label>
+          <input type="radio" name="media-type" value="media" data-media-type checked>
+          <span>사진/동영상</span>
+        </label>
+      </fieldset>
+
+      <section class="location" aria-label="다운로드 위치">
+        <span>다운로드 위치</span>
+        <p data-location>Chrome 기본 다운로드 폴더</p>
+        <small>정확한 절대 경로는 Chrome 정책상 확장 프로그램에서 읽을 수 없습니다.</small>
+      </section>
+
+      <button type="button" data-download disabled>일괄 다운로드</button>
+      <button type="button" class="secondary" data-open-folder disabled>다운로드 폴더 열기</button>
+    </main>
+    <script src="popup.js"></script>
+  </body>
+</html>
