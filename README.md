@@ -31,7 +31,14 @@
 
 ## 설치 방법
 ### Chrome 웹 스토어 설치
-[Chrome 웹 스토어](https://chromewebstore.google.com/detail/mgmgdpgoelhaobjdglffnodkpfbijnna?utm_source=item-share-cb)
+[Chrome 웹 스토어에서 다운로드](https://chromewebstore.google.com/detail/mgmgdpgoelhaobjdglffnodkpfbijnna?utm_source=item-share-cb)
+### GitHub에서 설치
+#### 1. [GitHub 프로젝트 페이지](https://github.com/Coffee-In-Blood/DogDrip_Bulk_Downloader)의 "Code" 탭으로 이동, 팝업 메뉴에서 "ZIP 다운로드"를 선택합니다.
+#### 2. 다운받은 Zip 파일을 압축해제합니다. 
+#### 3. Chrome에서 chrome://extensions를 엽니다.
+#### 4. 오른쪽 위의 개발자 모드를 켭니다.
+#### 5. 압축해제된 확장 프로그램을 로드를 누릅니다.
+#### 6. 다운로드 받은 위치\DogDrip_Bulk_Downloader\\**dogdrip-bulk-downloader** 폴더를 선택합니다.
 
 ## 사용 방법
 1. 개드립에 접속합니다.
