@@ -31,7 +31,7 @@
 
 ## 설치 방법
 ### Chrome 웹 스토어 설치
-Chrome 웹 스토어 등록 후 아래에 링크를 추가할 예정입니다.
+[Chrome 웹 스토어](https://chromewebstore.google.com/detail/mgmgdpgoelhaobjdglffnodkpfbijnna?utm_source=item-share-cb)
 
 ## 사용 방법
 1. 개드립에 접속합니다.
